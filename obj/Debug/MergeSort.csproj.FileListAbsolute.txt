@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Assisted Project\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+D:\SimpliLearn Course\Assisted Project\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+D:\SimpliLearn Course\Assisted Project\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+D:\SimpliLearn Course\Assisted Project\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Assisted Project\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Assisted Project\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Assisted Project\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+D:\SimpliLearn Course\Assisted Project\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
